@@ -1,2 +1,3 @@
 # gpt-diff
-Created with CodeSandbox
+
+Preview version 0 at https://codesandbox.io/s/github/MarcoWorms/gpt-diff
